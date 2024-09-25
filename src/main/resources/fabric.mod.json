@@ -3,13 +3,13 @@
 	"id": "better-book-viewer",
 	"version": "${version}",
 	"name": "Better-Book-Viewer",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Minecraft Mod to Make Reading Books Better",
 	"authors": [
-		"Me!"
+		"Dalmontron"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Dalmontron05/Better-Book-Viewer"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/better-book-viewer/icon.png",
